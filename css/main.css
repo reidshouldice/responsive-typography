@@ -19,10 +19,21 @@ html {
 }
 
 @media only screen and (min-width: 38em) {
-  .header{
+  .article{
     font-size: 1rem;
   }
+}
 
+@media only screen and (min-width: 60em) {
+  .article{
+    font-size: 1.125rem;
+  }
+}
+
+@media only screen and (min-width: 90em) {
+  .article{
+    font-size: 1.3em
+  }
 }
 
 article {
