@@ -18,6 +18,8 @@ html {
   box-sizing: inherit;
 }
 
+@media only screen and (min-width: 38em)
+
 article {
   max-width: 43em;
 }
