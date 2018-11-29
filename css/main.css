@@ -25,31 +25,31 @@ article {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
-  margin-bottom: 1.3;
+  margin-bottom: 0;
 }
 
 article h1 {
   font-weight: normal;
   margin-top: 0;
-  margin-bottom: 1.3;
+  margin-bottom: 0;
 }
 
 article header {
   border-bottom: 1px solid #999;
   margin-top: 0;
-  margin-bottom: 1.3;
+  margin-bottom: 0;
 }
 
 article header p {
   font-style: italic;
   margin-top: 0;
-  margin-bottom: 1.3;
+  margin-bottom: 0;
 }
 
 article > p:last-child {
   border-bottom: 1px solid #999;
   margin-top: 0;
-  margin-bottom: 1.3;
+  margin-bottom: 0;
 }
 
 blockquote {
@@ -57,7 +57,7 @@ blockquote {
   color: #555;
   font-size: 1.125rem;
   margin-top: 0;
-  margin-bottom: 1.3
+  margin-bottom: 0
 }
 
 .quote {
