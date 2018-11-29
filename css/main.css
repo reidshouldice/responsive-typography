@@ -20,6 +20,38 @@ html {
   box-sizing: inherit;
 }
 
+article {
+  max-width: 43em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+article h1 {
+  font-weight: normal;
+}
+
+article header {
+  border-bottom: 1px solid #999;
+}
+
+article header p {
+  font-style: italic;
+}
+
+article > p:last-child {
+  border-bottom: 1px solid #999;
+}
+
+blockquote {
+  max-width: 24em;
+  color: #555;
+  font-size: 1.125rem;
+}
+
+.quote {
+  color: #999;
+}
+
 @media only screen and (min-width: 38em) {
 
   html {
@@ -54,34 +86,4 @@ html {
     font-size: 130%;
   }
 
-}
-
-article {
-  max-width: 43em;
-}
-
-article h1 {
-  font-weight: normal;
-}
-
-article header {
-  border-bottom: 1px solid #999;
-}
-
-article header p {
-  font-style: italic;
-}
-
-article > p:last-child {
-  border-bottom: 1px solid #999;
-}
-
-blockquote {
-  max-width: 24em;
-  color: #555;
-  font-size: 1.125rem;
-}
-
-.quote {
-  color: #999;
 }
