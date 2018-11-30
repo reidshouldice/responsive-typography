@@ -74,6 +74,10 @@ ol {
   padding-left: 1rem;
 }
 
+p {
+  margin: 1.4rem 0;
+}
+
 @media only screen and (min-width: 38em) {
 
   html {
