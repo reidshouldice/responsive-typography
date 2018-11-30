@@ -21,7 +21,8 @@ html {
 }
 
 body {
-  margin: 15px;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 article {
