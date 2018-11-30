@@ -71,6 +71,10 @@ blockquote {
   color: #999;
 }
 
+ol {
+  margin-left: 0;
+}
+
 @media only screen and (min-width: 38em) {
 
   html {
