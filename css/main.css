@@ -23,6 +23,7 @@ html {
 body {
   margin-left: 1rem;
   margin-right: 1rem;
+  padding: 1rem;
 }
 
 article {
@@ -43,12 +44,14 @@ article header {
   border-bottom: 1px solid #999;
   margin-top: 0;
   margin-bottom: 0;
+  padding-bottom: 1rem;
 }
 
 article header p {
   font-style: italic;
   margin-top: 0;
   margin-bottom: 0;
+  padding-bottom: 1rem;
 }
 
 article > p:last-child {
