@@ -57,6 +57,7 @@ article > p:last-child {
   border-bottom: 1px solid #999;
   margin-top: 0;
   margin-bottom: 0;
+  padding-bottom: 1rem;
 }
 
 blockquote {
