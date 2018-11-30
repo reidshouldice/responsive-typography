@@ -62,7 +62,7 @@ article > p:last-child {
 blockquote {
   max-width: 24em;
   color: #555;
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin: 1rem 0;
   padding: 0;
 }
