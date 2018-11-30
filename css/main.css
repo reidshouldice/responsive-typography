@@ -22,6 +22,7 @@ html {
 
 body {
   margin: 1rem;
+  padding: 1rem 0;
 }
 
 article {
@@ -30,6 +31,7 @@ article {
   margin-right: auto;
   margin-top: 0;
   margin-bottom: 0;
+  padding: 1rem 0;
 }
 
 article h1 {
