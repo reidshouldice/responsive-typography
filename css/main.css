@@ -21,7 +21,7 @@ html {
 }
 
 body {
-  margin: .95rem;
+  margin: 1rem;
 }
 
 article {
@@ -63,7 +63,7 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
-  margin: 0;
+  margin: 1rem 0;
 }
 
 .quote {
